@@ -1,0 +1,51 @@
+cd_produto,cd_categoria,nm_produto,ds_produto,vl_preco,qt_estoque,dt_cadastro
+1,1,SMARTPHONE GALAXY A54,Smartphone Samsung 128GB 6GB RAM tela 6.4 AMOLED,1899.99,150,2023-10-17
+2,1,IPHONE 14 128GB,Apple iPhone 14 128GB tela Super Retina XDR 6.1,4499.9,80,2022-04-25
+3,1,SMART TV 55 4K,Smart TV LED 55 polegadas 4K UHD Wi-Fi HDMI USB,2299.0,60,2022-01-26
+4,1,FONE BLUETOOTH JBL,Fone over-ear cancelamento de ruido 30h bateria,399.99,200,2022-10-09
+5,1,TABLET GALAXY TAB A8,Tablet Samsung 64GB tela 10.5 Wi-Fi Android 11,1299.0,100,2022-09-08
+6,1,CAMERA DSLR CANON,Canon EOS Rebel SL3 24.1MP Full HD Wi-Fi,3799.0,35,2021-08-17
+7,1,ECHO DOT 5 GERACAO,Smart Speaker Amazon Alexa controle inteligente,349.9,180,2022-10-13
+8,2,O SENHOR DOS ANEIS,Trilogia completa J.R.R. Tolkien capa dura,89.9,300,2020-04-14
+9,2,CLEAN CODE,A Handbook of Agile Software Craftsmanship R. Martin,79.9,150,2021-11-23
+10,2,SAPIENS,Uma Breve Historia da Humanidade Yuval Noah Harari,59.9,200,2021-07-12
+11,2,O ALQUIMISTA,Paulo Coelho edicao comemorativa 35 anos,44.9,250,2020-03-30
+12,2,PYTHON FLUENTE,Programacao clara concisa e eficaz Luciano Ramalho,99.9,120,2022-08-28
+13,3,CAMISETA POLO MASCULINA,Polo algodao slim fit varias cores tamanhos P ao XG,79.9,400,2023-03-09
+14,3,CALCA JEANS FEMININA,Jeans skinny cintura alta elastano azul e preto,129.9,300,2022-02-02
+15,3,TENIS RUNNING NIKE,Nike Air Max masculino corrida confortavel,449.9,180,2022-01-31
+16,3,VESTIDO FLORAL FEMININO,Vestido midi floral manga curta tecido leve,119.9,250,2022-04-06
+17,3,JAQUETA IMPERMEAVEL,Jaqueta impermeavel unissex trilha e chuva,199.9,150,2022-08-12
+18,3,MEIA KIT 6 PARES,Kit 6 pares meias cano medio algodao,39.9,500,2022-08-27
+19,4,JOGO DE PANELAS INOX,Jogo 5 panelas inox fundo triplo antiaderente,349.9,80,2022-06-02
+20,4,ASPIRADOR ROBO WI-FI,Aspirador robo Wi-Fi programavel LIDAR navigation,1599.0,45,2023-09-09
+21,4,SOFA 3 LUGARES VELUDO,Sofa sala de estar tecido veludo 3 lugares cinza,2499.0,20,2021-01-28
+22,4,LUMINARIA LED TETO 24W,Plafon LED 24W luz branca fria sala teto,89.9,200,2022-07-29
+23,4,KIT JARDIM FERRAMENTAS,Kit 8 ferramentas jardim cabo plastico resistente,79.9,150,2021-07-23
+24,4,TRAVESSEIRO VISCOELASTICO,Travesseiro cervical viscoelastico anti-alergico,129.9,300,2022-10-28
+25,5,BICICLETA MTB ARO 29,Mountain bike aro 29 aluminio 21 velocidades,1299.0,40,2023-12-20
+26,5,ESTEIRA ELETRONICA 2.5HP,Esteira ergometrica motor 2.5HP inclinacao automatica,2899.0,15,2023-07-13
+27,5,KIT MUSCULACAO 20KG,Kit halter anilhas 20kg borracha com suporte,299.9,80,2023-03-06
+28,5,BOLA DE FUTEBOL ADIDAS,Adidas Tiro Pro FIFA Quality campo,149.9,200,2022-08-14
+29,5,RAQUETE BEACH TENNIS,Fibra carbono grip antiderrapante profissional,199.9,120,2023-04-05
+30,6,PERFUME IMPORTADO 100ML,Eau de Parfum masculino notas amadeiradas 100ml,299.9,150,2022-08-27
+31,6,KIT SKINCARE FACIAL,Hidratante sabonete tonico vitamina C tratamento 30 dias,149.9,200,2021-10-12
+32,6,SECADOR DE CABELO 2000W,Secador profissional ionico com difusor 2000W,199.9,120,2021-01-07
+33,6,PROTETOR SOLAR FPS 60,Protetor solar facial FPS 60 vitamina E 50ml,59.9,300,2021-06-13
+34,6,BASE LIQUIDA FACIAL,Base liquida cobertura media acabamento natural 30ml,79.9,250,2022-12-16
+35,7,LEGO CLASSIC 500 PCS,Conjunto LEGO Classic construcao livre 500 pecas coloridas,249.9,100,2023-03-09
+36,7,BONECA BARBIE PROFISSOES,Boneca Barbie serie profissoes acessorios incluidos,89.9,200,2022-12-15
+37,7,CONTROLE PS5 DUALSENSE,Controle sem fio PS5 DualSense gatilhos adaptativos,499.9,80,2022-10-12
+38,7,JOGO DE TABULEIRO CATAN,Jogo estrategia Catan base para 3-4 jogadores,149.9,60,2022-06-09
+39,8,CAFE ESPECIAL 500G,Cafe torrado e moido especial grau 85+ SCA 500g,49.9,500,2022-08-09
+40,8,WHEY PROTEIN CHOCOLATE 900G,Suplemento proteina whey concentrada chocolate 900g,119.9,200,2022-12-11
+41,8,AZEITE EXTRAVIRGEM 500ML,Azeite de oliva extravirgem importado acidez 0.3%,39.9,400,2022-04-15
+42,8,PASTA DE AMENDOIM 500G,Pasta amendoim natural sem adicao de acucar 500g,29.9,350,2022-04-05
+43,9,SUPORTE CELULAR CARRO,Suporte universal celular para painel ventilacao,49.9,300,2022-01-25
+44,9,PNEU 205/55 R16,Pneu aro 16 205/55 R16 91V all season,399.9,80,2021-04-10
+45,9,CERA AUTOMOTIVA 500ML,Cera carnauba automotiva 500ml protetor brilho,39.9,200,2022-01-03
+46,9,GPS AUTOMOTIVO 5 POLEGADAS,GPS veicular tela 5 polegadas mapas Brasil atualizados,299.9,60,2021-12-19
+47,10,MOUSE GAMER RGB 16000DPI,Mouse gamer USB RGB 16000 DPI 8 botoes programavel,199.9,150,2023-09-11
+48,10,TECLADO MECANICO RGB ABNT2,Teclado mecanico switch azul ABNT2 RGB retroiluminado,349.9,100,2022-09-28
+49,10,WEBCAM FULL HD 1080P,Webcam USB Full HD 1080p 30fps microfone integrado,199.9,130,2022-02-14
+50,10,PEN DRIVE 128GB USB 3.0,Pen drive 128GB USB 3.0 leitura 100MBs compacto,89.9,250,2023-04-16
