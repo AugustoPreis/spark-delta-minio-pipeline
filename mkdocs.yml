@@ -1,0 +1,102 @@
+site_name: Spark Delta Lake + MinIO + SQL Server
+site_description: Pipeline de dados end-to-end com Spark, Delta Lake, MinIO e SQL Server
+site_author: Augusto Preis
+site_url: https://github.com/AugustoPreis/spark-delta-minio-sqlserver
+
+repo_name: spark-delta-minio-sqlserver
+repo_url: https://github.com/AugustoPreis/spark-delta-minio-sqlserver
+
+# Copyright
+copyright: Copyright &copy; 2025 - Augusto Preis
+
+# Theme
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - toc.follow
+    - toc.integrate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: https://raw.githubusercontent.com/delta-io/delta/master/logo.svg
+  favicon: https://delta.io/favicon.ico
+
+# Navigation
+nav:
+  - Home: index.md
+  - 📚 Guias:
+    - Começando: guides/getting-started.md
+    - Setup: guides/setup.md
+    - Notebooks: guides/notebooks.md
+  - 🏛️ Conceitos:
+    - Arquitetura: concepts/architecture.md
+    - Delta Lake: concepts/delta-lake.md
+    - Arquitetura Medalhão: concepts/medallion-architecture.md
+  - 🛠️ Ferramentas:
+    - Apache Spark: tools/spark.md
+    - MinIO: tools/minio.md
+    - SQL Server: tools/sqlserver.md
+  - 📖 Referências:
+    - Termos: reference/glossary.md
+    - Links Úteis: reference/links.md
+    - FAQ: reference/faq.md
+
+# Plugins
+plugins:
+  - search:
+      lang: pt
+  - glightbox
+
+# Extensions
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      use_pygments: true
+      anchor_linenums: true
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+      title: Índice
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - footnotes
